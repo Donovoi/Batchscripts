@@ -1,7 +1,7 @@
 @if (@CodeSection == @Batch) @then
 
 @echo off
-
+REM https://www.dostips.com/forum/viewtopic.php?f=3&t=4842
 REM BinToBat.bat: Create an installer Batch program for binary and text data files
 REM Antonio Perez Ayala
 
